@@ -21,4 +21,4 @@ No APIs or LLMs are used — only maths-based ML models.
 - notebooks/ → experiments
 
 ## Status
-🚧 Initial setup completed
+![Backend Flow](image/hybrid.png)
